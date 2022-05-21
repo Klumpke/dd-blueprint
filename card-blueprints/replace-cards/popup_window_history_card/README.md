@@ -17,10 +17,10 @@
 
 ### Screenshots
 **Light theme:**<br>
-![light](https://github.com/Klumpke/dwains-dashboard-blueprints_development/blob/master/card-blueprints/replace-cards/popup_window_history_card/.github/screenshots/light.png "Light")
+![light](https://github.com/Klumpke/dwains-dashboard-blueprints_development/blob/main/card-blueprints/replace-cards/popup_window_history_card/.github/screenshots/light.png "Light")
 
 **Dark theme:**<br>
-![dark](https://github.com/Klumpke/dwains-dashboard-blueprints_development/blob/master/card-blueprints/replace-cards/popup_window_history_card/.github/screenshots/dark.png "Dark")
+![dark](https://github.com/Klumpke/dwains-dashboard-blueprints_development/blob/main/card-blueprints/replace-cards/popup_door_history_card/.github/screenshots/dark.png "Dark")
 
 
 ### Changelog
