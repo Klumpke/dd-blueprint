@@ -1,4 +1,4 @@
-# Popup door history card (Replace-Cards)
+# Popup door history card Blueprint (Replace-Cards)
 ##### Created by [Jeroen Klompen](https://github.com/klumpke/)
 
 
@@ -8,7 +8,7 @@
 ### Installation
 1. Go into Edit Mode
 2. Go to a door entity you want to modify
-3. Click on the three dots and choose Popup card
+3. Click on the three dots and choose "Popup card"
 4. Choose "Dwains Dashboard Blueprint"
 5. Copy the content of the blueprint file `blueprint.yaml` into the blueprint installation block.
 6. Click "Install Blueprint"
